@@ -7,3 +7,6 @@ Green
 Blue
 Yellow
 And the unicorn
+Indigo
+Red
+
